@@ -1,4 +1,4 @@
-<h1 align="center">Betty & Chidiebere</h1> <p align="center"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/[user]/[repo]?color=blue&style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/github/license/[user]/[repo]?color=green&style=for-the-badge"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/[user]/[repo]?color=orange&style=for-the-badge"> </p>
+<h1 align="center">Betty & Chidiebere</h1> 
 Overview
 This project is designed to create an AirBnB-like web application for travelers seeking to explore other countries and cities across the globe.
 
